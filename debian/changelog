@@ -1,0 +1,42 @@
+ros-humble-andino-gz (0.1.1-2jammy) jammy; urgency=high
+
+  * Updates readme. (#80 <https://github.com/Ekumen-OS/andino_gz/issues/80>)
+  * Improve office world (#75 <https://github.com/Ekumen-OS/andino_gz/issues/75>)
+  * Fixes local_costmap and global_costmap scan topics. (#79 <https://github.com/Ekumen-OS/andino_gz/issues/79>)
+  * Contributors: Franco Cipollone, larodriguez22
+
+ -- Leonardo Neumarkt <leonardoneumarkt@ekumenlabs.com>  Mon, 26 Aug 2024 16:00:00 -0000
+
+ros-humble-andino-gz (0.1.0-2jammy) jammy; urgency=high
+
+  * Modifies min range of the lidar. (#74 <https://github.com/Ekumen-OS/andino_gz/issues/74>)
+  * Adds map to the office world. (#69 <https://github.com/Ekumen-OS/andino_gz/issues/69>)
+  * Setup Nav2 for multirobot simulation (#66 <https://github.com/Ekumen-OS/andino_gz/issues/66>)
+  * Improves world launching (#62 <https://github.com/Ekumen-OS/andino_gz/issues/62>)
+  * Adds Office world (#58 <https://github.com/Ekumen-OS/andino_gz/issues/58>)
+  * Support for multi robot simulation (#51 <https://github.com/Ekumen-OS/andino_gz/issues/51>)
+  * Adds example using slam_toolbox. (#48 <https://github.com/Ekumen-OS/andino_gz/issues/48>)
+  * Improves odometry. (#47 <https://github.com/Ekumen-OS/andino_gz/issues/47>)
+  * Modifies default config for gui. (#46 <https://github.com/Ekumen-OS/andino_gz/issues/46>)
+  * Fixes scan points frame. (#45 <https://github.com/Ekumen-OS/andino_gz/issues/45>)
+  * Adds joint states info to complete tf tree. (#40 <https://github.com/Ekumen-OS/andino_gz/issues/40>)
+  * Fixes bug with odometry. (#37 <https://github.com/Ekumen-OS/andino_gz/issues/37>)
+  * Allows multi world seleciton. (#36 <https://github.com/Ekumen-OS/andino_gz/issues/36>)
+  * Update dependencies. (#35 <https://github.com/Ekumen-OS/andino_gz/issues/35>)
+  * Fixes materials. (#34 <https://github.com/Ekumen-OS/andino_gz/issues/34>)
+  * Removes tugbot from scene. (#33 <https://github.com/Ekumen-OS/andino_gz/issues/33>)
+  * Allows multiple diff drive plugin instances for multiple andinos. (#31 <https://github.com/Ekumen-OS/andino_gz/issues/31>)
+  * Fixes fuel path of models in the world. (#30 <https://github.com/Ekumen-OS/andino_gz/issues/30>)
+  * Adds a spawn launchfile and modifies the main launchfile to use it (#19 <https://github.com/Ekumen-OS/andino_gz/issues/19>)
+  * Improves README. (#24 <https://github.com/Ekumen-OS/andino_gz/issues/24>)
+  * Adds world license. (#22 <https://github.com/Ekumen-OS/andino_gz/issues/22>)
+  * Adds ros_gz_bridge (#21 <https://github.com/Ekumen-OS/andino_gz/issues/21>)
+  * Adds the LIDAR sensor (#17 <https://github.com/Ekumen-OS/andino_gz/issues/17>)
+  * Adds the camera sensor to Andino model. (#16 <https://github.com/Ekumen-OS/andino_gz/issues/16>)
+  * Adds andino as submodule (#14 <https://github.com/Ekumen-OS/andino_gz/issues/14>)
+  * Add Andino description and Gazebo launchfile (#2 <https://github.com/Ekumen-OS/andino_gz/issues/2>)
+  * Contributors: Agustin Alba Chicar, Eloy Briceno, Franco Cipollone, Leo Neumarkt
+
+ -- Leonardo Neumarkt <leonardoneumarkt@ekumenlabs.com>  Tue, 13 Aug 2024 16:00:00 -0000
+
+
